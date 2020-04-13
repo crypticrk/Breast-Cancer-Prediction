@@ -6,4 +6,4 @@ The early diagnosis of Breast Cancer can improve the prognosis and chance of sur
 
 Because of its unique advantages in critical features detection from complex data-sets, machine learning (ML) is widely recognized as the methodology of choice in Breast Cancer pattern classification and forecast modelling.
 
-As a result, I have used various ML models to classify patients into malignant or benign groups. Likewise, I have compared these ML models according to their accuracy. The ML models used include Nearest Neigbour, Logistic Regression   
+As a result, I have used various ML models to classify patients into malignant or benign groups. Likewise, I have compared these ML models according to their accuracy. The ML models used include KNeighborsClassifier , Logistic Regression and Decision Tree Classifier.
